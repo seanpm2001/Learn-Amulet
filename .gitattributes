@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Amulet source file
+# Swapping for Standard ML for now, I would do OCaml, but I decided Standard ML would look better here. BTW: GitHub doesn't support Amulet yet as a language.
+*.ml linguist-detectable=true
+*.ml linguist-documentation=false
+*.ml linguist-language=Standard-ML
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +169,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, October 23rd at 7:47 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
